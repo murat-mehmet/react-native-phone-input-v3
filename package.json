@@ -1,0 +1,73 @@
+{
+  "_args": [
+    [
+      "react-native-phone-input-v3@0.3.0",
+      "G:\\Haso\\HasoMobile"
+    ]
+  ],
+  "_from": "react-native-phone-input-v3@0.3.0",
+  "_id": "react-native-phone-input-v3@0.3.0",
+  "_inBundle": false,
+  "_integrity": "sha512-7C836eIIGIppK+Hu4KI12eQ+38+orG+MDQe3p/XNl+D2A/M5ism0XQBIObKOiQQr9+C0yFe8y2+QK+5LWuej4w==",
+  "_location": "/react-native-phone-input-v3",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-phone-input-v3@0.3.0",
+    "name": "react-native-phone-input-v3",
+    "escapedName": "react-native-phone-input-v3",
+    "rawSpec": "0.3.0",
+    "saveSpec": null,
+    "fetchSpec": "0.3.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-phone-input-v3/-/react-native-phone-input-v3-0.3.0.tgz",
+  "_spec": "0.3.0",
+  "_where": "G:\\Haso\\HasoMobile",
+  "author": {
+    "name": "Ravi Poonia",
+    "url": "https://github.com/ravi-poonia"
+  },
+  "bugs": {
+    "url": "https://github.com/ravi-poonia/react-native-phone-input/issues"
+  },
+  "dependencies": {
+    "google-libphonenumber": "^3.2.15",
+    "lodash": "^4.17.20",
+    "prop-types": "^15.7.2"
+  },
+  "deprecated": false,
+  "description": "Phone input box for React Native",
+  "homepage": "https://github.com/ravi-poonia/react-native-phone-input",
+  "keywords": [
+    "react-native",
+    "phone",
+    "telephone",
+    "phone input",
+    "input",
+    "tel",
+    "input text",
+    "international",
+    "react-native-component",
+    "ios",
+    "android"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "react-native-phone-input-v3",
+  "peerDependencies": {
+    "@react-native-picker/picker": "^2.1.0",
+    "react-native": ">= 0.25"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ravi-poonia/react-native-phone-input.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.3.0"
+}
